@@ -1,0 +1,28 @@
+body{
+    background-color: #EFECEC;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+}
+.container{
+    color: #5C5470;
+    text-align: center;
+    margin-top: 2%;
+    font-size: larger;
+}
+
+#taskContainer {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.task {
+    margin-bottom: 10px;
+}
+#taskInput{
+    padding: 4px;
+}
+.add-task{
+    padding: 4px;
+}
